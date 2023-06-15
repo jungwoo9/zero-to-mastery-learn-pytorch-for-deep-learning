@@ -1,1 +1,2 @@
 # zero-to-mastery-learn-pytorch-for-deep-learning
+This repository contains the rewritten jupyter notebook from [zero to mastery learn pytorch for deep learning](https://github.com/mrdbourke/pytorch-deep-learning) to study the basic pytorch.
